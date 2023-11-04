@@ -47,5 +47,5 @@ jobs:
           registry-login-server: ${{ secrets.REGISTRY_LOGIN_SERVER }}
           registry-username: ${{ secrets.REGISTRY_USERNAME }}
           registry-password: ${{ secrets.REGISTRY_PASSWORD }}
-          name: aci-flaskappseunghye218
+          name: aciflaskappseunghye218
           location: "korea central"
